@@ -32,7 +32,7 @@ MealMeter is an innovative application that leverages the power of Large Languag
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/MealMeter.git`
+1. Clone the repository: `git clone https://github.com/abhaskaran/meal_meter.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
